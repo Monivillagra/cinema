@@ -1,0 +1,212 @@
+.cinema {
+	width: 40%;
+}
+
+.movie {
+	margin: 30px;
+    font-size: small;
+    color: #bad4d4;
+    position: relative;
+}
+
+.logo {
+	margin: 1% auto;
+    background: #8e9c8e;
+}
+
+.imgb {
+	width: 154%;
+    height: 420px;
+    margin: -12px -1px;
+}
+
+.icono {
+	position: relative;
+    bottom: 210px;
+    left: 330px;
+	width: 60px;
+}
+
+.tbanner {
+	position: relative;
+	color: #bec7b5;
+}
+
+h1 {
+	font-size: -webkit-xxx-large;
+	padding: 10px;
+}
+
+.bbox {
+	width: 15%;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #54de54;
+    color: #54de54;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.back {
+	background: #b98919;
+	padding: 2%;
+}
+
+.imgm1 {
+	width: 100%;
+    height: 200px;
+}
+
+.imgm2 {
+	width: 100%;
+   height: 200px;
+}
+
+.imgm3 {
+	width: 100%;
+    height: 200px;
+}
+
+.imgm4 {
+	width: 100%;
+    height: 200px;
+}
+
+.imgm5 {
+	width: 100%;
+    height: 200px;
+}
+
+.imgm66 {
+	width: 100%;
+    height: 200px;
+}
+
+.imgm6 {
+	width: 100%;
+	height: 250px
+}
+
+.imgm7 {
+	width: 100%;
+	height: 250px;
+}
+
+.imgm8 {
+	width: 100%;
+	height: 250px;
+}
+
+.imgm9 {
+	width: 100%;
+	height: 250px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.dos {
+	position: relative;
+}
+
+.small {
+	font-size: 10px;
+	color: brown;
+	padding: 10px;
+}
+
+.titulo {
+	font-size: 30px;
+}
+
+.titulo2 {
+	font-size: 20px;
+	color: #c5c3c3;
+}
+
+.titulo3 {
+	font-size: 12px;
+	color: #c5c3c3;
+	padding: 10px;
+}
+
+.stitulo {
+	color: gray;
+	font-size: 15px;
+}
+
+.parrafo {
+	color: gray;
+	font-size: 13px;
+}
+
+.psmall {
+	color: gray;
+	font-size: 10px;
+	margin: 10px 2px;
+}
+
+.xs {
+	color: gray;
+    font-size: 9px;
+    margin: 3% auto;
+}
+
+.xs2 {
+	color: gray;
+    font-size: 9px;
+    margin: -3% auto;
+}
+
+.xs3 {
+	color: gray;
+    font-size: 9px;
+    margin: 3% auto;
+}
+
+.neg {
+	font-size: xx-small;
+    padding: 0% 10%;
+    margin: -2% 0%;
+}
+footer {
+	background: #c5c3c3;
+	padding: 40px;
+}
+
+.icon-play {
+ 	width: 30%;
+    height: 30px;
+    border-radius: 30px;
+    background: orange;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: x-small;
+    margin: 2% 0%;
+}
+
+.icon-ticket {
+	width: 30%;
+    height: 30px;
+    border-radius: 30px;
+    background: orange;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: x-small;
+    margin: 10px 0px;
+}
+
+.icon-ticket2 {
+	width: 30%;
+    height: 50px;
+    border-radius: 5px;
+    background: orange;
+    color: white;
+    padding: 17px 10px;
+    text-align: center;
+    font-size: x-small;
+}
